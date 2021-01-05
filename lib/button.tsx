@@ -1,4 +1,6 @@
-import React from 'react';
-import ReactDom from 'react-dom'
-console.log(React)
-console.log(ReactDom)
+import React from "react";
+export default function Button() {
+    return (
+        <button>1</button>
+    )
+}
